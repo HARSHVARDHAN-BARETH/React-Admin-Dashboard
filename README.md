@@ -20,8 +20,5 @@ A dynamic and customizable React-based Admin Dashboard packed with modern UI com
 - 📁 **Modular File Structure** – Clean architecture for easy scalability and maintenance.
 - 📌 **Routing** – Smooth navigation between pages with React Router.
 - 🎨 **Tailwind CSS** – Fully responsive and modern styling system.
-- 🔌 **API Ready** – Structured folders for easy service integration via Axios.
 - 🧩 **Component Reusability** – Organized UI components for consistency.
-- 🌐 **Responsive Design** – Optimized for all devices.
 
-## 📂 Folder Structure
