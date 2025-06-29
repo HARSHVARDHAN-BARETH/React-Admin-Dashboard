@@ -8,7 +8,7 @@ A dynamic and customizable React-based Admin Dashboard packed with modern UI com
   ![image](https://github.com/user-attachments/assets/cda9dbf4-319f-4893-9320-d90422a480bd)
 
 - 📊 **Dashboard with Charts** – Real-time data visualization using `react-chartjs-2`.
-![image](https://github.com/user-attachments/assets/bacfc01e-550e-4228-bc43-1db858f70d3b)
+![image](https://github.com/user-attachments/assets/dfe6d9f6-742e-462e-a839-db6d1a73ed0b)
 
 - 📅 **Interactive Calendar** – Monthly event view powered by FullCalendar.
 ![image](https://github.com/user-attachments/assets/cecedd09-78c6-4230-9480-d989c4daabbe)
